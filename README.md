@@ -1,44 +1,79 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EA8F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Zuon+Kimi+%F0%9F%91%8B;Full-Stack+Web+Developer;JS+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+working+apps+%F0%9F%9A%80" alt="Typing SVG" />
+# 👋 Hi, I'm Zuon Kimi
 
-</div>
+### 🇻🇳 Vietnamese Developer · 🇯🇵 Living & Working in Japan
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zuonkimi&label=Profile%20Views&color=2EA8F7&style=flat" alt="profile views" />
-</div>
+**Full-Stack Web Developer | Building practical applications for real-world problems**
 
----
+<br>
 
-### 👋 Về mình
-
-- 🎓 Tốt nghiệp chuyên ngành **IT / Web Design**
-- 💼 Hiện đang làm việc trong lĩnh vực xây dựng, song song phát triển kỹ năng **Full-Stack Web Development**
-- 🌱 Đang xây dựng các ứng dụng thực tế: quản lý công việc, real-time chat, dashboard nội bộ...
-- 🎯 Mục tiêu: trở thành **BrSE / Full-Stack Developer**, hướng tới các dự án ứng dụng nội bộ doanh nghiệp
-- ⚡ Sẵn sàng nhận thử thách mới — kể cả xây app cho công ty 😉
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Handlebars](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+<a href="https://github.com/zuonkimi">
+  <img src="https://komarev.com/ghpvc/?username=zuonkimi&label=Profile%20Views&color=2EA8F7&style=flat-square" alt="Profile Views" />
+</a>
 
 </div>
 
 ---
 
-### 📌 Dự án nổi bật
+## 🚀 About Me
+
+I'm a Vietnamese developer currently **living and working in Japan**.
+
+I graduated with a background in **IT / Web Design** and I'm currently working in the construction industry while continuing to develop my skills as a **Full-Stack Web Developer**.
+
+I enjoy turning ideas into practical applications that can actually be used in real-world environments.
+
+* 🇻🇳 From Vietnam, currently based in Japan
+* 💻 Focused on **Full-Stack Web Development**
+* 🌱 Currently improving my skills in **JavaScript, React, Node.js & MongoDB**
+* 🔧 Interested in building **internal business applications and management systems**
+* 💬 Interested in **BrSE / Full-Stack Developer** career paths
+* 🚀 Always learning, building and experimenting with new ideas
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,scss,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+## 💻 Featured Project
+
+### 🗂️ Business Task Manager
+
+A full-stack business task management application designed to help teams organize tasks, communicate in real time and manage internal workflows.
+
+**Key features include:**
+
+* 📋 Task & workflow management
+* 💬 Real-time messaging with Socket.IO
+* 🔔 Notifications & unread message tracking
+* 📎 Image & PDF file sharing
+* 🔐 Authentication & social login
+* 🔎 Conversation & message search
+* 📊 Dashboard & internal management features
+
+**Tech Stack**
+
+`JavaScript` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO` `Handlebars` `SCSS` `Bootstrap`
 
 <div align="center">
 
@@ -50,23 +85,73 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 What I'm Currently Working On
+
+```text
+▸ Building practical full-stack web applications
+▸ Improving my React & Node.js skills
+▸ Learning better system architecture and API design
+▸ Exploring real-time applications with Socket.IO
+▸ Building tools that can solve actual business problems
+▸ Improving communication skills for working in Japan
+```
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zuonkimi&show_icons=true&hide_border=true&count_private=true&theme=default" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuonkimi&layout=compact&hide_border=true&theme=default" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zuonkimi&show_icons=true&hide_border=true&count_private=true&theme=default" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuonkimi&layout=compact&hide_border=true&theme=default" />
 
 </div>
 
 ---
 
-### 📫 Liên hệ
+## 🧩 Development Philosophy
+
+> **Don't just write code. Build something useful.**
+
+I believe good software should not only work, but should also make people's work **simpler, faster and more efficient**.
+
+That's why I'm particularly interested in developing applications for **real business environments**.
+
+---
+
+## 🌏 Beyond Coding
+
+Living and working in Japan has given me the opportunity to experience both **Vietnamese and Japanese working cultures**.
+
+I'm interested in the intersection of:
+
+**Technology × Business × Japan**
+
+and I hope to use my technical skills and cross-cultural experience to build better solutions for businesses and users.
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-<!-- Thay link bên dưới bằng thông tin thật của bạn -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Feel free to explore my repositories and connect with me.**
 
 </div>
